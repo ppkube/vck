@@ -3,7 +3,6 @@
 *.swn
 *.idea
 *.iml
-pkg/apis/vck/v1alpha1/zz_generated.deepcopy.go
-pkg/client
-vendor
-vendor.orig
+vendor/k8s.io/code-generator
+/.vscode
+/vck
